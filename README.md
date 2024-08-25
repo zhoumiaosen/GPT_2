@@ -19,7 +19,8 @@ car_price_prediction/
 │   └── model.py                    # Model definition (PyTorch)
 │
 ├── notebooks/
-│   └── GPT_2_Exploration.ipynb     # Jupyter notebook for GPT_3 structurt exploration and preprocessing
+│   ├── GPT_2_Exploration.ipynb     # Jupyter notebook for GPT_2 structurt exploration 
+│   └── GPT_2_Huggingface.ipynb	    # Jupyter notebook for Huggingface GPT_2 structurt exploration
 │
 └── README.md                       # Project overview and instructions
 ```
