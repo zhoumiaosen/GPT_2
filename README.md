@@ -10,7 +10,7 @@ car_price_prediction/
 │   └── data.csv                    # Original dataset
 │
 ├── models/
-│   ├── GPT-2.pth         	        # Saved GPT-2 model state dictionary
+│   ├── GPT_2.pth         	        # Saved GPT-2 model state dictionary
 │   └── encoder.pkl              	  # Saved encoder (encoder for text)
 │
 ├── src/
